@@ -1,6 +1,3 @@
-# qqqoid themes
-
-
 # [qqqoid themes](https://marketplace.visualstudio.com/items?itemName=qqqoid.qqqoid-themes)
 
 [![marketplace](https://img.shields.io/visual-studio-marketplace/v/qqqoid.qqqoid-themes?color=brightgreen&label=Visual%20Studio%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=qqqoid.qqqoid-themes)
