@@ -1,0 +1,103 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "qqqoid color",
+  "include": "./dark_plus.json",
+  "colors": {
+    "editor.foreground": "#d4d4d4",
+    "sideBarTitle.foreground": "#d4d4d4",
+    "sideBar.foreground": "#d4d4d4",
+    "statusBar.foreground": "#ccc",
+    "tab.activeForeground": "#fff",
+    "tab.unfocusedActiveForeground": "#fff",
+    "tab.inactiveForeground": "#9c9c9c",
+    "tab.unfocusedInactiveForeground": "#9c9c9c",
+    "tab.activeBackground": "#000",
+    "tab.unfocusedActiveBorder": "#000",
+    "tab.inactiveBackground": "#000",
+    "tab.activeBorder": "#000",
+    "tab.border": "#000",
+    "editorGroupHeader.tabsBorder": "#000",
+    "editor.selectionBackground": "#007acc",
+    "editor.selectionHighlightBackground": "#007acc",
+    "editor.inactiveSelectionBackground": "#007acc",
+    "editor.findMatchBackground": "#fa05",
+    "editor.findMatchHighlightBackground": "#fa05",
+    "editor.findMatchBorder": "#fe0",
+    "editor.findMatchHighlightBorder": "#fe0",
+    "editor.selectionHighlightBorder": "#fe0",
+    "titleBar.activeBackground": "#000",
+    "titleBar.inactiveBackground": "#000",
+    "titleBar.border": "#000",
+    "titleBar.activeForeground": "#ccc",
+    "titleBar.inactiveForeground": "#ccc",
+    "scrollbarSlider.background": "#fff2",
+    "scrollbarSlider.hoverBackground": "#fff3",
+    "scrollbarSlider.activeBackground": "#fff4",
+    "editor.background": "#000",
+    "statusBar.background": "#000",
+    "statusBar.noFolderBackground": "#000",
+    "editorGroup.emptyBackground": "#000",
+    "editorGroup.dropBackground": "#000",
+    "editorGroupHeader.noTabsBackground": "#000",
+    "editorGroupHeader.tabsBackground": "#000",
+    "activityBarBadge.background": "#000",
+    "activityBar.background": "#000",
+    "editorWhitespace.foreground": "#000",
+    "sideBar.background": "#000",
+    "editorRuler.foreground": "#222",
+    "sideBar.border": "#000",
+    "editorGroup.border": "#000",
+    "editorIndentGuide.background1": "#000",
+    "editorIndentGuide.activeBackground1": "#000",
+  },
+  "tokenColors": [
+    {
+      "scope": "emphasis",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "markup.italic",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Control flow / Special keywords",
+      "scope": [
+        "keyword.control",
+        "source.cpp keyword.operator.new",
+        "keyword.operator.delete",
+        "keyword.other.using",
+        "keyword.other.operator",
+        "entity.name.operator"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "string.quoted",
+        "constant.numeric.css",
+        "keyword.other.unit.px.css",
+        "constant.numeric.decimal.js",
+        "constant.numeric.json"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "comment",
+        "string.quoted.docstring.multi.python"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    }
+  ],
+  "semanticHighlighting": true,
+}

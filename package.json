@@ -1,0 +1,28 @@
+{
+  "name": "qqqoid-themes",
+  "displayName": "qqqoid VSCode dark monochrome and color themes",
+  "description": "qqqoid dark monochrome and colored (based on dark+) schemes for VSCode",
+  "publisher": "qqqoid",
+  "icon": "logo.jpg",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "qqqoid mono",
+        "uiTheme": "vs-dark",
+        "path": "./themes/qqqoid-monochrome-theme.json"
+      },
+      {
+        "label": "qqqoid color",
+        "uiTheme": "vs-dark",
+        "path": "./themes/qqqoid-color-theme.json"
+      }
+    ]
+  }
+}
