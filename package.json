@@ -1,32 +1,37 @@
 {
-  "name": "qqqoid-themes",
-  "displayName": "qqqoid dark monochrome and color themes",
-  "description": "qqqoid dark monochrome and colored (based on dark+) schemes for VSCode",
-  "publisher": "qqqoid",
-  "icon": "logo.jpg",
-  "version": "0.0.4",
-  "engines": {
-    "vscode": "^1.81.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/SalavatSamigoullin/qqqoid-themes.git"
-  },
-  "contributes": {
-    "themes": [
-      {
-        "label": "qqqoid mono",
-        "uiTheme": "vs-dark",
-        "path": "./themes/qqqoid-monochrome-theme.json"
-      },
-      {
-        "label": "qqqoid color",
-        "uiTheme": "vs-dark",
-        "path": "./themes/qqqoid-color-theme.json"
-      }
-    ]
-  }
+    "name": "qqqoid-themes",
+    "displayName": "Colorful dark, light and monochrome dark italic color themes",
+    "description": "Colorful dark, light and monochrome dark italic color themes (based on dark+ and github) schemes for VSCode",
+    "publisher": "qqqoid",
+    "icon": "qqqoid.png",
+    "version": "0.0.5",
+    "engines": {
+        "vscode": "^1.81.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SalavatSamigoullin/qqqoid-themes.git"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "qqqoid mono",
+                "uiTheme": "vs-dark",
+                "path": "./themes/qqqoid-monochrome-theme.json"
+            },
+            {
+                "label": "qqqoid color",
+                "uiTheme": "vs-dark",
+                "path": "./themes/qqqoid-color-theme.json"
+            },
+            {
+                "label": "qqqoid light",
+                "uiTheme": "vs-light",
+                "path": "./themes/qqqoid-light-color-theme.json"
+            }
+        ]
+    }
 }
