@@ -1,8 +1,8 @@
-# [qqqoid themes](https://marketplace.visualstudio.com/items?itemName=qqqoid.qqqoid-themes)
+# [qqqoid themes](https://marketplace.visualstudio.com/items?itemName=SalavatDSamigoullin.another-one-theme-pack)
 
-[![marketplace](https://img.shields.io/visual-studio-marketplace/v/qqqoid.qqqoid-themes?color=brightgreen&label=Visual%20Studio%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=qqqoid.qqqoid-themes)
-[![installs](https://img.shields.io/visual-studio-marketplace/i/qqqoid.qqqoid-themes?label=Installs)](https://marketplace.visualstudio.com/items?itemName=qqqoid.qqqoid-themes)
-[![rating](https://img.shields.io/visual-studio-marketplace/r/qqqoid.qqqoid-themes?label=Rating)](https://marketplace.visualstudio.com/items?itemName=qqqoid.qqqoid-themes)
+[![marketplace](https://img.shields.io/visual-studio-marketplace/v/SalavatDSamigoullin.another-one-theme-pack?color=brightgreen&label=Visual%20Studio%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=SalavatDSamigoullin.another-one-theme-pack)
+[![installs](https://img.shields.io/visual-studio-marketplace/i/SalavatDSamigoullin.another-one-theme-pack?label=Installs)](https://marketplace.visualstudio.com/items?itemName=SalavatDSamigoullin.another-one-theme-pack)
+[![rating](https://img.shields.io/visual-studio-marketplace/r/SalavatDSamigoullin.another-one-theme-pack?label=Rating)](https://marketplace.visualstudio.com/items?itemName=SalavatDSamigoullin.another-one-theme-pack)
 
 Dark (black background) monochrome and colored themes for VSCode.
 
